@@ -1,0 +1,15 @@
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\bin\Debug\net6.0\ExchangeR.Application.deps.json
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\bin\Debug\net6.0\ExchangeR.Application.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\bin\Debug\net6.0\ExchangeR.Application.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\bin\Debug\net6.0\ExchangeR.Domain.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\bin\Debug\net6.0\ExchangeR.Domain.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.csproj.AssemblyReference.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.AssemblyInfoInputs.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.AssemblyInfo.cs
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.csproj.CoreCompileInputs.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.csproj.CopyComplete
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\refint\ExchangeR.Application.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ExchangeR.Application.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Application\obj\Debug\net6.0\ref\ExchangeR.Application.dll

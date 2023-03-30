@@ -1,0 +1,12 @@
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\bin\Debug\net6.0\ExchangeR.Domain.deps.json
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\bin\Debug\net6.0\ExchangeR.Domain.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\bin\Debug\net6.0\ExchangeR.Domain.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ExchangeR.Domain.csproj.AssemblyReference.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ExchangeR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ExchangeR.Domain.AssemblyInfoInputs.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ExchangeR.Domain.AssemblyInfo.cs
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ExchangeR.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ExchangeR.Domain.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\refint\ExchangeR.Domain.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ExchangeR.Domain.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Domain\obj\Debug\net6.0\ref\ExchangeR.Domain.dll

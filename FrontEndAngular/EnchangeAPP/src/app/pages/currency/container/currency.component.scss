@@ -1,0 +1,34 @@
+.tbl-design {
+    font-family: Calibri;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #2e4053;
+}
+
+.tbl-design thead {
+    margin: 0px;
+    padding: 20px;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    font-size: 13px !important;
+    background: #2e4053 !important;
+    padding:10px;
+    border: 1px solid #999;
+    color: #fff;
+}
+
+.tbl-design thead th{
+    padding: 12px !important;
+    font-weight:bold;
+    border: 1px solid #999;
+}
+
+.tbl-design tbody {
+background: #fff;
+}
+
+.tbl-design tbody td {
+    margin: 0px;
+    padding:10px;
+    border: 1px solid #999;
+}

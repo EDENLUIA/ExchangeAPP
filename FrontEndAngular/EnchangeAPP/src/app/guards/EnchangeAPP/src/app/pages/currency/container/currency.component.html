@@ -1,0 +1,54 @@
+<h1>CURRENCIES</h1>
+
+
+<form [formGroup]="currencyForm">
+
+    <div class="row">
+        <mat-form-field>
+            <mat-label>Name
+            </mat-label>
+            <input matInput formControlName="Name" >
+        </mat-form-field>
+    </div>
+        <div class="row">
+            <mat-form-field>
+                <mat-label>Abbreviation
+                </mat-label>
+                <input matInput formControlName="Abbreviation" >
+            </mat-form-field>
+        </div>
+       <div class="row">
+            <mat-form-field>
+                <mat-label>Description</mat-label>
+                <input matInput formControlName="Description" >
+            </mat-form-field>
+        </div>
+    <button type="submit" mat-button color="primary" (click)="createCurrency()">Guardar</button>
+  </form>
+
+  <br>
+
+<table class="tbl-design mat-elevation-z8">
+    <thead>
+        <tr>   
+            <th>Id</th>
+            <th>Name</th>
+            <th>Abbreviation</th>
+            <th>Description</th>
+         
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr *ngFor = "let currency of currencies">
+            <td>{{currency.id}}</td>
+            <td>{{currency.name}}</td>
+            <td>{{currency.abbreviation}}</td>
+            <td>{{currency.description}}</td>
+           
+
+        </tr>
+    </tbody>
+
+</table>
+

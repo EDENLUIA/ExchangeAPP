@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vAXlSsuZdnbJTnQMTvC8K3lY/eMbG57HMZ5fl16fYDA=",
+  "Source": "ExchangeR.Api",
+  "BasePath": "_content/ExchangeR.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

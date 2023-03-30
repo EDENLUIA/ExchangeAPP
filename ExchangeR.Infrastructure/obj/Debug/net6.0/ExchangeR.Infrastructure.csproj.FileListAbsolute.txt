@@ -1,0 +1,15 @@
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\bin\Debug\net6.0\ExchangeR.Infrastructure.deps.json
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\bin\Debug\net6.0\ExchangeR.Infrastructure.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\bin\Debug\net6.0\ExchangeR.Infrastructure.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\bin\Debug\net6.0\ExchangeR.Domain.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\bin\Debug\net6.0\ExchangeR.Domain.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.csproj.AssemblyReference.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.AssemblyInfo.cs
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.csproj.CopyComplete
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\refint\ExchangeR.Infrastructure.dll
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ExchangeR.Infrastructure.pdb
+D:\Repositorio\Mega\Desarrollos\NET\slnExchangeRate\ExchangeR.Infrastructure\obj\Debug\net6.0\ref\ExchangeR.Infrastructure.dll
